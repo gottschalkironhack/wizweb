@@ -1,8 +1,8 @@
 # wizweb
 A platform to share knowledge and promote your profession
 
-SECOND FINAL PROJECT AT IRONHACK BOOTCAMP ( MONGODB, NODE.JS )
+Second final project at Ironhack Bootcamp ( MONGODB, NODE.JS )
 
-PLEASE SEE THE PLATFORM HERE:
+Please see the platform here:
 
 https://wizweb.herokuapp.com/
